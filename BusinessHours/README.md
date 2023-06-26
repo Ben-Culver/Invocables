@@ -9,4 +9,5 @@
 ### Use element in Flow. Provide a Business Hours Id, Start DateTime and End Datetime
 - The return will be a Decimal of the number of minutes that have elapsed between StartTime and EndTime
   accounting for the specified Business Hours.
+  
 ![](https://github.com/Ben-Culver/Invocables/blob/main/BusinessHours/ReadmeResources/UseInFlow.gif)
