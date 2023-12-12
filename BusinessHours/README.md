@@ -1,6 +1,7 @@
-[Youtube Demo](https://youtu.be/B-bchQQ4Je0)
+
 
 # Invocables: Business Minutes Elapsed
+[Youtube Demo](https://youtu.be/B-bchQQ4Je0)
 ### Create `BusinessMinutesElapsed` class in your dev environment. Be sure to get the name of the class correct.
 ![](https://github.com/Ben-Culver/Invocables/blob/main/BusinessHours/ReadmeResources/CreateBusinessMinutesElapsedClass.gif)
 
@@ -13,4 +14,5 @@
   accounting for the specified Business Hours.
   
 ![](https://github.com/Ben-Culver/Invocables/blob/main/BusinessHours/ReadmeResources/UseInFlow.gif)
+
 [Youtube Demo](https://youtu.be/B-bchQQ4Je0)
